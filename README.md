@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavanya Chekuri</h1>
-<h3 align="center">A passionate DevOps Engineer DevOps engineer with a focus on automating and optimizing infrastructure, ensuring scalability, reliability, and security.</h3>
+<h3 align="center">A passionate DevOps engineer with a focus on automating and optimizing infrastructure, ensuring scalability, reliability, and security.</h3>
 
 - 🌱 I’m currently learning **Ansible, K8s Security**
 
